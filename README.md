@@ -9,7 +9,7 @@ My first repository.
 
 **Inception** is a 2010 science fiction film written and directed by Christopher Nolan. It explores the concept of entering and manipulating people's dreams to steal or implant ideas.
 
-## Main Characters 💂‍♂️
+## Main Characters 💂‍♂️ - palitan moto pangit
 
 - Dom Cobb – A skilled extractor (Leonardo DiCaprio)  
 - Arthur – Cobb’s point man (Joseph Gordon-Levitt)  
@@ -17,7 +17,7 @@ My first repository.
 - Eames – The forger (Tom Hardy)  
 - Mal Cobb – Cobb’s deceased wife (Marion Cotillard)
 
-## Why I Love It ❤️
+## Why I Love It ❤️ - YEBAH
 
 - Deep and mind-bending plot  
 - Visual effects that are both stunning and meaningful  
